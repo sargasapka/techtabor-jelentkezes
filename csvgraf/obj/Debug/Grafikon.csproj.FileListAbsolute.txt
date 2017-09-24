@@ -1,0 +1,36 @@
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\bin\Debug\csvgraf.exe.config
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\csvgraf.exe
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\csvgraf.pdb
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\bin\Debug\csvgraf.exe
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\bin\Debug\csvgraf.pdb
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\csvgraf.Form1.resources
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\csvgraf.Properties.Resources.resources
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\Grafikon.csproj.GenerateResource.Cache
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\bin\Debug\csvgraf.exe.manifest
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\bin\Debug\csvgraf.application
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\Grafikon.csprojResolveAssemblyReference.cache
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\csvgraf.exe.manifest
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\csvgraf.application
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\csvgraf.AboutBox1.resources
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\csvgraf.Form2.resources
+D:\Adatok, mentések\Projects\Visual Studio\csvgraf\csvgraf\bin\Debug\csvgraf.exe.config
+D:\Adatok, mentések\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\csvgraf.exe
+D:\Adatok, mentések\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\csvgraf.pdb
+D:\Programming\c#\csvgraf\csvgraf\bin\Debug\csvgraf.exe.config
+D:\Programming\c#\csvgraf\csvgraf\obj\Debug\csvgraf.exe
+D:\Programming\c#\csvgraf\csvgraf\obj\Debug\csvgraf.pdb
+D:\Program\c#\csvgraf\csvgraf\bin\Debug\csvgraf.exe.config
+D:\Program\c#\csvgraf\csvgraf\bin\Debug\csvgraf.exe.manifest
+D:\Program\c#\csvgraf\csvgraf\bin\Debug\csvgraf.application
+D:\Program\c#\csvgraf\csvgraf\bin\Debug\csvgraf.exe
+D:\Program\c#\csvgraf\csvgraf\bin\Debug\csvgraf.pdb
+D:\Program\c#\csvgraf\csvgraf\obj\Debug\Grafikon.csprojResolveAssemblyReference.cache
+D:\Program\c#\csvgraf\csvgraf\obj\Debug\csvgraf.AboutBox1.resources
+D:\Program\c#\csvgraf\csvgraf\obj\Debug\csvgraf.Form1.resources
+D:\Program\c#\csvgraf\csvgraf\obj\Debug\csvgraf.Form2.resources
+D:\Program\c#\csvgraf\csvgraf\obj\Debug\csvgraf.Properties.Resources.resources
+D:\Program\c#\csvgraf\csvgraf\obj\Debug\Grafikon.csproj.GenerateResource.Cache
+D:\Program\c#\csvgraf\csvgraf\obj\Debug\csvgraf.exe.manifest
+D:\Program\c#\csvgraf\csvgraf\obj\Debug\csvgraf.application
+D:\Program\c#\csvgraf\csvgraf\obj\Debug\csvgraf.exe
+D:\Program\c#\csvgraf\csvgraf\obj\Debug\csvgraf.pdb

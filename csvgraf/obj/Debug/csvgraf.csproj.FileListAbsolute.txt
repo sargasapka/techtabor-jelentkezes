@@ -1,0 +1,9 @@
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\bin\Debug\csvgraf.exe.config
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\bin\Debug\csvgraf.exe
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\bin\Debug\csvgraf.pdb
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\csvgraf.csprojResolveAssemblyReference.cache
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\csvgraf.Form1.resources
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\csvgraf.Properties.Resources.resources
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\csvgraf.csproj.GenerateResource.Cache
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\csvgraf.exe
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Debug\csvgraf.pdb

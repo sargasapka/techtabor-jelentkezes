@@ -1,0 +1,13 @@
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\bin\Release\csvgraf.exe.config
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\bin\Release\csvgraf.exe.manifest
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\bin\Release\csvgraf.application
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\bin\Release\csvgraf.exe
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\bin\Release\csvgraf.pdb
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Release\csvgraf.Form1.resources
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Release\csvgraf.Properties.Resources.resources
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Release\Grafikon.csproj.GenerateResource.Cache
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Release\csvgraf.exe.manifest
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Release\csvgraf.application
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Release\csvgraf.exe
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Release\csvgraf.pdb
+D:\Adatok\Projects\Visual Studio\csvgraf\csvgraf\obj\Release\Grafikon.csprojResolveAssemblyReference.cache
